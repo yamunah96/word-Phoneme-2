@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "myphonics",
+    "slug": "myphonics",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/appicon.gif",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#182854"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#182854"
+      },
+      "package": "com.yamunagowda.myphonics"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a504e357-2165-4f9d-882c-f086381bc4ba"
+      }
+    }
+  }
+}
